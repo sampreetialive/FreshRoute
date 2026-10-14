@@ -1,6 +1,7 @@
 # FreshRoute — Intelligent Decision Support for Perishable Produce Distribution
 
 FreshRoute is a responsive MVP for smarter perishable-produce distribution planning. The repository includes a public-facing landing page and the planning workspace.
+Link to website: https://sampreetialive.github.io/FreshRoute/
 
 ## Files
 
